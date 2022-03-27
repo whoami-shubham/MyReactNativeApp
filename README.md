@@ -1,2 +1,4 @@
 # MyReactNativeApp
-Integrate React Native with Existing Apps
+Integrate React Native with Existing android App,
+
+https://reactnative.dev/docs/integration-with-existing-apps
